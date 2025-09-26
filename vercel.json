@@ -1,3 +1,5 @@
 {
-  "installCommand": "npm install"
+  "framework": null,
+  "installCommand": "npm install",
+  "buildCommand": "echo 'Build command overridden. No frontend build needed.'"
 }
