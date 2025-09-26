@@ -4,8 +4,7 @@
   "private": true,
   "description": "A secure healthcare-imaging report assistant.",
   "scripts": {
-    "dev": "echo 'Run Vercel CLI for local development: vercel dev'",
-    "build": "echo 'No frontend build step required. API routes will be handled by Vercel.'"
+    "dev": "echo 'Run Vercel CLI for local development: vercel dev'"
   },
   "dependencies": {
     "@google/genai": "^1.21.0"
