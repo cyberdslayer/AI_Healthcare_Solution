@@ -1,5 +1,6 @@
 {
   "framework": null,
   "installCommand": "npm install",
-  "buildCommand": "echo 'Build command overridden. No frontend build needed.'"
+  "buildCommand": "mkdir public && cp index.html index.tsx App.tsx types.ts constants.ts metadata.json public/ && cp -r components hooks pages services public/",
+  "outputDirectory": "public"
 }
