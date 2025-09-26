@@ -1,0 +1,5 @@
+{
+  "name": "Copy of MediScan AI",
+  "description": "A secure healthcare-imaging report assistant. This application allows users to upload medical reports (PDF or text), receive AI-powered summaries, and ask questions about the report content in a conversational manner.",
+  "requestFramePermissions": []
+}
